@@ -1,0 +1,23 @@
+.name {
+  margin: 0px;
+}
+.parent {
+  display: flex;
+  padding: 10px;
+}
+.child-right {
+  margin-left: 20px;
+}
+.child-left {
+  margin-left: 20px;
+}
+.img {
+  vertical-align: middle;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.child-right p {
+  color: cornflowerblue;
+  font-style: italic;
+}

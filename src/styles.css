@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: mediumorchid;
+}
+.birth {
+  margin: 30px;
+  background-color: white;
+  border-radius: 5px;
+}
+.btn {
+  background-color: black;
+  color: white;
+  width: 160px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 7px;
+}
+.btn:hover {
+  background-color: chocolate;
+  color: black;
+}
+.container {
+  background-color: white;
+  margin: 15px;
+  border-radius: 10px;
+}
